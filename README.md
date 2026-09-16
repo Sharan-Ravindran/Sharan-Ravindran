@@ -1,13 +1,18 @@
-# Hi, I'm Sharan Ravindran 👋
+## Hi, I'm Sharan Ravindran
 
-🔐 Aspiring Cybersecurity Professional | Penetration Tester
-🎓 Cybersecurity Intern @ Innoknowvex
-🌱 Currently learning: Web App Pentesting, Network Security
-📫 LinkedIn: [www.linkedin.com/in/sharan-ravindran-83b4b3361] | Email: [uwitkuwit@gmail.com]
+B.Tech CSE (AI/ML) Student | Aspiring Cybersecurity Professional
 
-## 🛠️ Skills
-- Penetration Testing (Web & Network)
-- Kali Linux | Metasploit | Burp Suite | Nmap
-- Python | Bash Scripting
-- OWASP Top 10 | Vulnerability Assessment
+Currently focused on SOC Operations, Threat Detection, Incident Response, and Security Automation.
+
+Interested in Cybersecurity, AI/ML, Cloud Security, and Security Analytics.
+
+LinkedIn: linkedin.com/in/sharan-ravindran-83b4b336 | Email: uwitkuwit@gmail.com
+
+##Skills
+- SOC: Wazuh, Sysmon, Windows Security Logs, MITRE ATT&CK
+- Security: Burp Suite, Nmap, Nikto, WhatWeb, SQLmap, Metasploit
+- Programming: Python, Bash, NumPy, Pandas, SQL
+- Systems: Linux, Windows, VMware
+- Networking: TCP/IP, HTTP/S, DNS, Ports & Services
+- Web Security: OWASP Top 10, SQL Injection, XSS, Authentication & Access Control
 ```
