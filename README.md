@@ -6,7 +6,7 @@ Currently focused on SOC Operations, Threat Detection, Incident Response, and Se
 
 Interested in Cybersecurity, AI/ML, Cloud Security, and Security Analytics.
 
-## LinkedIn: linkedin.com/in/sharan-ravindran/ | Email: uwitkuwit@gmail.com
+## LinkedIn: https://www.linkedin.com/in/sharan-ravindran/ | Email: uwitkuwit@gmail.com
 
 ## Skills
 - SOC: Wazuh, Sysmon, Windows Security Logs, MITRE ATT&CK
